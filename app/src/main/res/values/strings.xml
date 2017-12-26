@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyfavLocations</string>
+    <string name="picture">Picture</string>
+
+    <string name="fragment_locations">Locations</string>
+    <string name="fragment_discription">Discription</string>
+    <string name="fragment_otherLocations">Other Locations</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="name_location_1">Ha Kida St 21 </string>
+    <string name="name_location_2">John Bryce</string>
+    <string name="name_location_3">Shufersal Deal</string>
+
+    <string name="name_discription_1">Hadera</string>
+    <string name="name_discription_2">Tel Aviv</string>
+    <string name="name_discription_3">Tsahal Street</string>
+</resources>
